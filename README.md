@@ -3,6 +3,8 @@
 ![Unity](https://img.shields.io/badge/Unity-2022.3.56f1-black?logo=unity)
 ![C#](https://img.shields.io/badge/C%23-Editor%20Tool-239120?logo=csharp)
 
+**Türkçe** | [English](README.en.md)
+
 Sahnedeki bir prefab instance'ının, kaynak prefab'a göre **hangi değerlerinin değiştiğini** tek bakışta gösteren bir Unity editor paneli.
 
 Unity'nin kendi *Overrides* menüsü sadece hangi bileşenlerin değiştiğini söyler. Bu panel ise her değişen property için **eski değer → yeni değer** farkını açıkça listeler.
