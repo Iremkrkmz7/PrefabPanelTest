@@ -1,0 +1,25 @@
+# Satir sonlarini otomatik duzenle
+* text=auto
+
+# Unity YAML dosyalari
+*.unity      text eol=lf
+*.prefab     text eol=lf
+*.asset      text eol=lf
+*.meta       text eol=lf
+*.mat        text eol=lf
+*.anim       text eol=lf
+*.controller text eol=lf
+
+# Kod
+*.cs         text diff=csharp
+
+# Binary dosyalar
+*.png        binary
+*.jpg        binary
+*.psd        binary
+*.fbx        binary
+*.ttf        binary
+*.otf        binary
+*.pdf        binary
+*.wav        binary
+*.mp3        binary
